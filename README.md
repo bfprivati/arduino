@@ -1,7 +1,7 @@
 # Projeto de Arduino
 
-Feito por:
-@bfprivati  /  
+Feito por:   
+@bfprivati  
 @giovannaC
 
 ## Material utilizado
