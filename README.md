@@ -6,7 +6,7 @@ Feito por:
 
 ## Material utilizado
 
-1 Placa de Arduino UNO,  
+1 Placa de Arduino UNO,
 1 Led, 
 6 fios, 
 1 resistor de 220 ohms, 
