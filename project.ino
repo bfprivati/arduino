@@ -10,7 +10,7 @@ void setup(){
     Serial.begin(9600);
     Serial.println("Arduino is ready");
     BTserial.begin(9600);
-    // HC-05 default serial speed for commincation mode is 9600
+    // HC-05 default serial speed for communication mode is 9600
     pinMode(LED_G, OUTPUT);
 }
 
