@@ -4,6 +4,10 @@ Feito por:
 @bfprivati  
 @giovannaC
 
+# Objetivo
+
+Ligar e desligar a lampada Led pelo celular, usando aplicativo para Android.
+
 ## Material utilizado
 
 1 Placa de Arduino UNO,
